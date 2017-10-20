@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 300.00001 300"
+   version="1.1"
+   x="0px"
+   y="0px"
+   id="svg4841"
+   sodipodi:docname="masaryk-co-lab-logo.svg"
+   inkscape:version="0.92.1 r15371"
+   width="300"
+   height="300">
+  <metadata
+     id="metadata4847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4845" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     id="namedview4843"
+     showgrid="false"
+     inkscape:zoom="1.0442254"
+     inkscape:cx="198.23304"
+     inkscape:cy="208.61072"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4839" />
+  <g
+     transform="matrix(0.35041121,0,0,0.35041121,2.0516573,76.594626)"
+     id="g4839">
+    <g
+       id="g4862"
+       transform="translate(-5.4658461,2.6389621)">
+      <rect
+         y="-221.22395"
+         x="-0.3891679"
+         height="856.13702"
+         width="856.13702"
+         id="rect4849"
+         style="opacity:0.99823531;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:31.25796318;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39922485" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4837"
+         d="m 269.37226,-107.51611 -0.83642,11.05763 -1.2098,16.35606 -1.8584,24.53334 -2.41654,29.27516 C 248.1586,27.27998 208.96737,69.68201 159.34105,86.43137 H 99.493505 v 25.92636 H 252.55083 l -5.94857,77.97 h 45.25788 l -5.94704,-77.97 h 141.72074 141.8126 l -5.9478,77.97 h 45.2564 l -5.9464,-77.97 h 153.0565 V 86.43137 h -59.7538 C 646.43744,69.63525 607.24694,27.27998 592.30774,-26.29392 l -2.4166,-29.27516 -1.86,-24.53334 -1.1139,-16.35606 -0.9299,-11.05763 -3.7161,48.32376 c -1.3333,4.09094 -2.9723,8.04004 -5.0186,11.89484 -25.0754,53.4328198 -82.5808,90.70125 -149.5276,90.70125 -66.9461,0 -124.4033,-37.2684302 -149.52614,-90.70125 -1.99795,-3.8548 -3.72985,-7.8039 -5.1106,-11.89484 z m 6.31888,73.60076 c 8.65871,15.41613 20.1304,29.1302598 33.5485,41.1684598 V 86.43137 h -25.09219 l -9.01521,-118.11649 c 0.14336,-0.66623 0.36876,-1.37463 0.5589,-2.23023 z m 304.0701,0 c 0.19,0.8556 0.2744,1.564 0.4646,2.23023 l -8.9218,118.11649 h -25.0907 V 7.2531098 c 13.3707,-12.0382 24.8875,-25.7523298 33.5479,-41.1684598 z M 260.54334,8.9252098 254.59476,86.43137 h -21.0013 V 48.42234 c 10.51407,-11.707 19.67037,-24.9366 26.94988,-39.4971302 z m 334.2728,0 c 7.2795,14.5605302 16.4827,27.7901302 26.95,39.4971302 v 38.00903 h -21.0022 z M 317.69604,14.50118 c 14.6066,11.37196 31.2218,20.2009 49.1603,26.67233 v 45.25786 h -49.1603 z m 220.0602,0 v 71.93019 h -49.161 V 41.17351 c 17.9393,-6.47143 34.6005,-15.25283 49.161,-26.67233 z m -162.4428,29.5527 c 15.2727,4.5678 31.5276,7.05333 48.3237,7.4336 v 34.94389 h -48.3237 z m 104.7327,0 v 42.37749 h -48.3237 V 51.58254 c 16.7961,-0.38256 33.0978,-3.00916 48.3237,-7.52866 z M 225.13636,57.34251 v 29.08886 h -40.05295 c 14.74836,-7.61377 28.15736,-17.43092 40.05295,-29.08886 z m 405.17888,0 c 11.8948,11.65794 25.2118,21.47509 39.9609,29.08886 h -39.9609 z"
+         style="fill:#ffffff;stroke-width:0.76666665" />
+      <text
+         id="text4853"
+         y="353.40167"
+         x="421.40881"
+         style="font-style:normal;font-weight:normal;font-size:114.1516037px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.85379004"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:114.15159607px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:2.85379004"
+           y="353.40167"
+           x="421.40881"
+           id="tspan4851"
+           sodipodi:role="line">Masaryk</tspan><tspan
+           id="tspan4855"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:114.15159607px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:2.85379004"
+           y="496.09119"
+           x="421.40881"
+           sodipodi:role="line">Co-Lab</tspan></text>
+    </g>
+  </g>
+</svg>
